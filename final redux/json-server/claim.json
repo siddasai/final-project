@@ -1,0 +1,41 @@
+{
+  "claims": [
+    {
+      "Claim_Number": "123-456-733",
+      "Claim_Type": "Submitted",
+      "Employee_Name": "siddasai",
+      "Claim_Program": "Progrmmm",
+      "Claim_Start_Date": "2021-10-13",
+      "Claim_End_Date": "2021-07-31",
+      "id": 1
+    },
+    {
+      "Claim_Number": "123-566-777",
+      "Claim_Type": "Pending",
+      "Employee_Name": "sam",
+      "Claim_Program": "Demo",
+      "Claim_Start_Date": "2020-08-08",
+      "Claim_End_Date": "2020-08-05",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "Employee_Id": 3,
+      "Employee_Name": "sai",
+      "Claim_Number": "frfkriri455",
+      "Claim_Type": "Pending",
+      "Claim_Program": "program",
+      "Claim_Start_Date": "2020-08-11",
+      "Claim_End_Date": "2020-08-11"
+    },
+    {
+      "Claim_Number": "ddff333",
+      "Claim_Type": "Denied",
+      "Employee_Name": "sankar",
+      "Claim_Program": "program",
+      "Claim_Start_Date": "2020-08-11",
+      "Claim_End_Date": "2020-08-11",
+      "id": 4
+    }
+  ]
+}

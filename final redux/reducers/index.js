@@ -1,0 +1,1 @@
+export { claimList } from '../actions/actionView.js';
